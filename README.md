@@ -24,7 +24,7 @@
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=00BFFF&color=000)](mailto:gabi_drew@live.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=00BFFF&color=000)](https://www.instagram.com/gb_conceicao/)
 
-<h3 align="left">Minha Stack ~</h3>
+<h3 align="left">~ Tecnologias</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="25" alt="C# logo" />
@@ -46,7 +46,7 @@
 ---
 
 <div style="text-align: center;" align="center">
-  <h3>* Estatísticas do GitHub *</h3>
+  <h3>Estatísticas do GitHub</h3>
   <br>
   <a href="https://play.unity.com/pt/games/ecef70bb-75bb-49fd-8cf0-d81da863381d/imlok-chat-14">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=imlokdev&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=00BFFF&text_color=FFFFFF&border_radius=3&border_color=00BFFF&icon_color=00BFFF&theme=jolly" alt="Estatísticas do GitHub">
