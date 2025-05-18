@@ -6,7 +6,7 @@
 <div align="center">
   <h3>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2300BFFF&lines=C%23+|+Unity+|+2D/3D+|+API's+|+Desenvolvimento+de+Jogos&vCenter=true&width=550&height=50&pause=1000&font_size=20">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=%2300BFFF&lines=C%23+|+Unity+|+2D/3D+|+API%27s+|+Desenvolvimento+de+Jogos&vCenter=true&width=590&height=50&pause=1000&font_size=20">
   </h3>
 </div>
 
