@@ -21,7 +21,7 @@
 <img align="right" alt="Pixel Art de Programação" height="150px" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/200w.gif?cid=6c09b9528xxz9hcjxmigja9bxha8a8w4vng0xdkmufpi3lrq&ep=v1_gifs_search&rid=200w.gif&ct=g" style="margin-left: 10px;">
 <h3 align="left">Conecte-se comigo!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=00BFFF&color=000)](mailto:gabi_drew@live.com)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=00BFFF&color=000)](mailto:imlokstudios@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=00BFFF&color=000)](https://www.instagram.com/gb_conceicao/)
 
 <h3 align="left">~ Tecnologias</h3>
