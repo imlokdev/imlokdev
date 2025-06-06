@@ -19,10 +19,14 @@
 ---
 
 <img align="right" alt="Pixel Art de Programação" height="150px" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/200w.gif?cid=6c09b9528xxz9hcjxmigja9bxha8a8w4vng0xdkmufpi3lrq&ep=v1_gifs_search&rid=200w.gif&ct=g" style="margin-left: 10px;">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imlokdev&label=Profile%20views&color=0e75b6&style=flat" alt="imlokdev" /> </p>
 <h3 align="left">Conecte-se comigo!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=00BFFF&color=000)](mailto:imlokstudios@gmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=00BFFF&color=000)](https://www.instagram.com/gb_conceicao/)
+<p align="left">
+<a href="https://instagram.com/gb_conceicao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gb_conceicao" height="30" width="40" /></a>
+<a href="https://twitter.com/imlokdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imlokdev" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/imlok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="imlok" height="30" width="40" /></a>
+</p>
 
 <h3 align="left">~ Tecnologias</h3>
 
@@ -34,12 +38,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="25" alt="Unity logo" />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="25" alt="Blender logo" />
-  <img width="8" />
-  <img src="https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask&logoColor=00BFFF" height="25" alt="Flask" />
-  <img width="8" />
-  <img src="https://img.shields.io/badge/FastAPI-000?style=for-the-badge&logo=fastapi&logoColor=00BFFF" height="25" alt="FastAPI" />
-  <img width="8" />
-  <img src="https://img.shields.io/badge/Photon_Fusion-000?style=for-the-badge&logo=unity&logoColor=00BFFF" height="25" alt="Photon Fusion" />
   <br>
 </div>
 
