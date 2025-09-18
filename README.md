@@ -61,9 +61,6 @@
 -->
 
 <div align="center">
-  <h2>🚀 Projetos em Destaque</h2>
-  <br>
-
   <a href="https://play.unity.com/pt/games/ecef70bb-75bb-49fd-8cf0-d81da863381d/imlok-chat-14">
     <img src="https://img.shields.io/badge/🎮%20ImLok%20Chat-Unity-blue?style=for-the-badge&logo=unity&logoColor=white" />
   </a>
