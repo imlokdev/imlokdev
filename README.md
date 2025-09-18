@@ -25,7 +25,7 @@
 <p align="left">
 <a href="https://instagram.com/gb_conceicao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gb_conceicao" height="30" width="40" /></a>
 <a href="https://twitter.com/imlokdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imlokdev" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/imlok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="imlok" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@imlok." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="imlok" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">~ Tecnologias</h3>
@@ -42,16 +42,40 @@
 </div>
 
 ---
-
-<div style="text-align: center;" align="center">
+<!--
+<div align="center">
   <h3>Estatísticas do GitHub</h3>
   <br>
+
   <a href="https://play.unity.com/pt/games/ecef70bb-75bb-49fd-8cf0-d81da863381d/imlok-chat-14">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=imlokdev&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=00BFFF&text_color=FFFFFF&border_radius=3&border_color=00BFFF&icon_color=00BFFF&theme=jolly" alt="Estatísticas do GitHub">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=imlokdev&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000000&title_color=00BFFF&text_color=FFFFFF&border_radius=3&border_color=00BFFF&icon_color=00BFFF&theme=jolly" alt="Estatísticas do GitHub">
   </a>
 
   <a href="https://play.unity.com/pt/games/ecef70bb-75bb-49fd-8cf0-d81da863381d/imlok-chat-14">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=imlokdev&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=00BFFF&hide=html,scss,less&bg_color=000&text_color=FFFFFF&border_radius=3&border_color=00BFFF" alt="Linguagens Mais Usadas">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=imlokdev&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=00BFFF&hide=html,scss,less&bg_color=000000&text_color=FFFFFF&border_radius=3&border_color=00BFFF" alt="Linguagens Mais Usadas">
+  </a>
+</div>
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400px"/>
+</div>
+-->
+
+<div align="center">
+  <h2>🚀 Projetos em Destaque</h2>
+  <br>
+
+  <a href="https://play.unity.com/pt/games/ecef70bb-75bb-49fd-8cf0-d81da863381d/imlok-chat-14">
+    <img src="https://img.shields.io/badge/🎮%20ImLok%20Chat-Unity-blue?style=for-the-badge&logo=unity&logoColor=white" />
+  </a>
+  <br><br>
+
+  <a href="https://github.com/imlokdev/TicTacToe_Multiplayer">
+    <img src="https://img.shields.io/badge/🎮%20TicTacToe%20Multiplayer%20-Photon-green?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
+  <br><br>
+
+  <a href="https://github.com/imlokdev/PacMan_2D">
+    <img src="https://img.shields.io/badge/🕹️%20PacMan%202D-GameDev-orange?style=for-the-badge&logo=unity&logoColor=white" />
   </a>
 </div>
 
