@@ -6,14 +6,16 @@
 <div align="center">
   <h3>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://readme-typing-svg.herokuapp.com/?color=%2300BFFF&lines=C%23+|+Unity+|+2D/3D+|+API%27s+|+Desenvolvimento+de+Jogos&vCenter=true&width=590&height=50&pause=1000&font_size=20">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=%2300BFFF&lines=Backend+Developer+|+Game+Dev+(Unity/C%23)+|+Laravel+%26+Spring+|+Cloud+%26+DevOps&vCenter=true&width=850&height=50&pause=1000&font_size=20">
   </h3>
 </div>
 
 ---
 
 <p align="center">
-  💻 Sou desenvolvedor de jogos pelo Instituto Federal da Bahia (IFBA), com habilidades em programação C# e desenvolvimento na Unity. Também tenho experiência com Python e criação de APIs, que utilizo para integrar funcionalidades e criar sistemas mais completos e interativos nos meus projetos.
+  💻 Graduando em Jogos Digitais pelo <b>IFBA</b>, transito entre a criatividade do Game Dev e a arquitetura robusta da <b>Engenharia de Software</b>. 
+  <br><br>
+  Embora minha base seja em C# e Unity, meu foco principal hoje é o desenvolvimento <b>Backend</b>. Tenho experiência na construção de APIs escaláveis utilizando <b>PHP (Laravel)</b> e <b>Java (Spring Boot)</b>, além de gerenciar infraestrutura e deploy com <b>Docker</b> e <b>Google Cloud</b>. Busco criar soluções que unam a interatividade dos jogos com a performance de sistemas complexos.
 </p>
 
 ---
@@ -28,46 +30,47 @@
 <a href="https://www.youtube.com/@imlok." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="imlok" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">~ Tecnologias</h3>
+<h3 align="left">~ Linguagens</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="25" alt="C# logo" />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="Python logo" />
   <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="25" alt="PHP logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="Java logo" />
+  <img width="8" />
+</div>
+
+<h3 align="left">~ Tecnologias</h3>
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="25" alt="Unity logo" />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="25" alt="Blender logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="25" alt="Laravel logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="25" alt="Spring Boot logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="25" alt="Google Cloud logo" />
   <br>
 </div>
 
 ---
-<!--
-<div align="center">
-  <h3>Estatísticas do GitHub</h3>
-  <br>
 
-  <a href="https://play.unity.com/pt/games/ecef70bb-75bb-49fd-8cf0-d81da863381d/imlok-chat-14">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=imlokdev&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000000&title_color=00BFFF&text_color=FFFFFF&border_radius=3&border_color=00BFFF&icon_color=00BFFF&theme=jolly" alt="Estatísticas do GitHub">
+<div align="center">
+  <a href="https://github.com/imlokdev/desafio-laravel">
+    <img src="https://img.shields.io/badge/🚀%20Task%20Manager-Backend-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   </a>
+  <br><br>
 
-  <a href="https://play.unity.com/pt/games/ecef70bb-75bb-49fd-8cf0-d81da863381d/imlok-chat-14">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=imlokdev&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=00BFFF&hide=html,scss,less&bg_color=000000&text_color=FFFFFF&border_radius=3&border_color=00BFFF" alt="Linguagens Mais Usadas">
-  </a>
-</div>
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400px"/>
-</div>
--->
-
-<div align="center">
   <a href="https://play.unity.com/pt/games/ecef70bb-75bb-49fd-8cf0-d81da863381d/imlok-chat-14">
     <img src="https://img.shields.io/badge/🎮%20ImLok%20Chat-Unity-blue?style=for-the-badge&logo=unity&logoColor=white" />
   </a>
   <br><br>
 
   <a href="https://github.com/imlokdev/TicTacToe_Multiplayer">
-    <img src="https://img.shields.io/badge/🎮%20TicTacToe%20Multiplayer%20-Photon-green?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/🎮%20TicTacToe%20Multiplayer%20-Photon-green?style=for-the-badge&logo=unity&logoColor=white" />
   </a>
   <br><br>
 
